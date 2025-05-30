@@ -12,7 +12,6 @@ Key features:
 - 🔐 Customer login with secure authentication
 - 📦 View active and past orders
 - 🚚 Check delivery dates and real-time status
-- 📱 Fully responsive front-end built with React
 - 🖥️ Backend built with PHP for handling API requests and database operations
 
 ---
@@ -21,11 +20,10 @@ Key features:
 
 **Frontend:**
 - [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/) (optional)
 - [Axios](https://axios-http.com/) for API communication
 
 **Backend:**
-- PHP (RESTful API)
+- PHP (REST API)
 - MySQL database
 
 **Other Tools:**
@@ -41,7 +39,6 @@ Key features:
 - Node.js & npm
 - PHP 8.x
 - MySQL
-- Composer
 - Git
 
 ---
