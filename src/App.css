@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+.app {
+  min-height: 100vh;
+  background-color: #f5f6fa;
+  font-family: 'Montserrat';
+}
+
+.main-content {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.upcoming-deliveries-container {
+  margin: 1rem 0;
+}
+
+h3 {
+  color: #666;
+}
+
+h3 {
+  margin-bottom: .15rem;
+}
+
+.section-header-sub {
+  color: #b1b1b1;
+  font-size: small;
+}
+
+.delivery-status-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0;
+  margin-bottom: 3rem;
+}
+
+.header-week-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.current-week {
+  color: #b1b1b1;
+  font-size: small;
+  font-weight: 400;
+}
+
+
+@media (max-width: 768px) {
+  .main-content {
+    padding: 2rem;
+  }
+  
+  .delivery-status-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+
