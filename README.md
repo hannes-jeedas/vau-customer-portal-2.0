@@ -1,5 +1,8 @@
 # VAU Customer Portal 2.0
 
+## Previous Version: https://customer.vau.ee/
+## Live Demo: https://customer.vau.ee/v2/
+
 # This is a WIP project with many features to be added in the future!
 
 A customer-facing web application that allows users to securely log in and view the status of their orders, including expected delivery dates and delivery progress.
